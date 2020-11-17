@@ -1,0 +1,9 @@
+{
+    "extends": "aqua/node",
+    "parserOptions": {
+        "ecmaVersion": 2021
+    },
+    "rules": {
+        "semi": "warn"
+    }
+}

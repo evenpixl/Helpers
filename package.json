@@ -1,0 +1,19 @@
+{
+  "author": {
+    "name": "Aeryle",
+    "email": "47262222+Aeryle@users.noreply.github.com"
+  },
+  "description": "A collection of tools to help working on mods",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "fs-extra": "^9.0.1",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-aqua": "^7.3.0",
+    "nexe": "^3.3.7"
+  },
+  "main": "index.js",
+  "version": "0.1.0-alpha"
+}
